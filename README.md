@@ -1,8 +1,7 @@
 # Coffee_IOT_Machine_Analysis-master
 ## In The Name Of ALLAH
 ---
-
- -**__Team  CIS Faculty__**:
+ -**__Team  CIS Faculty__**
   -__Ahmed Abu Zahrah__
   -__Rana Hesham__
   -__Noura Abd Elnaser__
