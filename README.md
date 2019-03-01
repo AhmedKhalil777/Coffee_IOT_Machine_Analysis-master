@@ -21,6 +21,8 @@
    - ![Use Case](pics/Sequence.JPG)
    - ![Use Case](pics/Collaboration.JPG)
  - ### Activity by © __Ahmed Abu Zahrah__ & © __Rana Hesham__ Designed by © __Heba Ismail__
+    - ![Use Case](pics/Activity1.JPG)
+    - ![Use Case](pics/Activity2.JPG)
  - ### Component + Deployment by © __Ahmed Khalil__
    - ![Use Case](pics/Deployment.JPG)
  - ### Class by © __Ahmed Khalil__
